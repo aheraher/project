@@ -1,0 +1,1 @@
+(self.webpackChunk_N_E=self.webpackChunk_N_E||[]).push([[298],{8919:function(n,o,e){Promise.resolve().then(e.t.bind(e,6007,23))},6007:function(n){n.exports={book:"MyComponent_book__VmZwb",cover:"MyComponent_cover__dDk2E",p:"MyComponent_p__MHc7u"}}},function(n){n.O(0,[837,971,23,744],function(){return n(n.s=8919)}),_N_E=n.O()}]);

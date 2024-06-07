@@ -1,0 +1,23 @@
+{
+  "/_not-found/page": "app/_not-found/page.js",
+  "/about/page": "app/about/page.js",
+  "/api/contact/route": "app/api/contact/route.js",
+  "/api/hello/route": "app/api/hello/route.js",
+  "/contact/page": "app/contact/page.js",
+  "/courses/aids/[title]/page": "app/courses/aids/[title]/page.js",
+  "/courses/aids/page": "app/courses/aids/page.js",
+  "/courses/civil/page": "app/courses/civil/page.js",
+  "/courses/computer/[title]/page": "app/courses/computer/[title]/page.js",
+  "/courses/computer/page": "app/courses/computer/page.js",
+  "/courses/e&tc/page": "app/courses/e&tc/page.js",
+  "/courses/electic/page": "app/courses/electic/page.js",
+  "/courses/first_year/[title]/page": "app/courses/first_year/[title]/page.js",
+  "/courses/first_year/page": "app/courses/first_year/page.js",
+  "/courses/it_engg/page": "app/courses/it_engg/page.js",
+  "/courses/mechanical/page": "app/courses/mechanical/page.js",
+  "/demo/page": "app/demo/page.js",
+  "/gallery/page": "app/gallery/page.js",
+  "/page": "app/page.js",
+  "/resorce/page": "app/resorce/page.js",
+  "/favicon.ico/route": "app/favicon.ico/route.js"
+}

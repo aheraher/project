@@ -4,7 +4,7 @@ import HeroSection from "./componets/HeroSection";
 import Join from "./componets/Join";
 import Truste from "./componets/Truste";
 import WhatWEOffer from "./componets/WhatWeOffer";
-import LastHeroSec from "./componets/lastHeroSec";
+// import LastHeroSec from "./componets/lastHeroSec";
 
 export default function Home() {
   return (
@@ -17,7 +17,7 @@ export default function Home() {
    <Join/>
    <WhatWEOffer/>
    <Truste/>
-   <LastHeroSec/>
+   // <LastHeroSec/>
 
    </>
   );
